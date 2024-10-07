@@ -1,9 +1,6 @@
 
-# Capstone Project - Business Analyst Career Program  
-**Author:** Raj Kishore Agrawal
-
 ## Project Overview
-This capstone project is part of the **Skill Academy Business Analyst Career Program**. The goal of the project is to explore a dataset, perform statistical and graphical analysis, and create an interactive dashboard using PowerBI. The analysis aims to provide insights into sales, profit, and business performance across different segments, countries, and products.
+This project is part of the **Skill Academy Business Analyst Career Program**. The goal of the project is to explore a dataset, perform statistical and graphical analysis, and create an interactive dashboard using PowerBI. The analysis aims to provide insights into sales, profit, and business performance across different segments, countries, and products.
 
 ## Agenda
 1. Data Exploration
